@@ -6,6 +6,7 @@ Stable Inverse Reinforcement Learning: Policies from Control Lyapunov Landscapes
 - Matlab (tested on R2021a)
 - Mosek (Follow the instructions at https://docs.mosek.com/10.0/toolbox/install-interface.html)
 - Yalmip (Follow the instructions at https://yalmip.github.io/tutorial/installation/)
+- LASA dataset (create a folder called LASA and include contents from https://bitbucket.org/khansari/lasahandwritingdataset/src/master/)
 ---
 ## Installation
 1. Install SeDuMi and then Yalmip by following their respective installation instructions.
