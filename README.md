@@ -17,11 +17,6 @@ Stable Inverse Reinforcement Learning: Policies from Control Lyapunov Landscapes
     2.2. Append the contents of **misc/startup.m** to your startup file and adjust the Yalmip and sedumi path to your installation path.
 
 ---
-## Usage
-
-There are two notebooks provided for single shape evaluation or multi shape evaluation. They should run out of the box. It is assumed that notebooks are executed while being in the root-path of this repository (otherwise the addpath command will not work)
-
----
 ## Structure
 
 ### functions
@@ -33,5 +28,11 @@ The LASA dataset.
 ### misc
 Some helpful stuff
 
-### notebooks
-Two example notebooks how to use the algorithm
+### scripts
+main code including example uses of the algorithm
+
+---
+## References
+This repository contains an implementation of the paper:
+
+[1] Tesfazgi, S., Sprandl, L., Lederer, A., & Hirche, S. "Stable Inverse Reinforcement Learning: Policies from Control Lyapunov Landscapes" in IEEE Open Journal of Control Systems, 2024 [arxiv](https://arxiv.org/abs/2405.08756)
