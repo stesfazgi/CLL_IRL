@@ -1,5 +1,9 @@
 # CLL_IRL
 Stable Inverse Reinforcement Learning: Policies from Control Lyapunov Landscapes
+
+This repository contains an implementation of the paper [1]:
+
+[1] Tesfazgi, S., Sprandl, L., Lederer, A., & Hirche, S. "Stable Inverse Reinforcement Learning: Policies from Control Lyapunov Landscapes" in IEEE Open Journal of Control Systems, 2024 [arxiv](https://arxiv.org/abs/2405.08756)
 ---
 
 ## Requirements
@@ -33,6 +37,15 @@ main code including example uses of the algorithm
 
 ---
 ## References
-This repository contains an implementation of the paper:
-
-[1] Tesfazgi, S., Sprandl, L., Lederer, A., & Hirche, S. "Stable Inverse Reinforcement Learning: Policies from Control Lyapunov Landscapes" in IEEE Open Journal of Control Systems, 2024 [arxiv](https://arxiv.org/abs/2405.08756)
+If you found this software useful for your research, consider citing us.
+```
+@ARTICLE{Tesfazgi24,
+  author={Tesfazgi, Samuel and Sprandl, Leonhard and Lederer, Armin and Hirche, Sandra},
+  journal={IEEE Open Journal of Control Systems}, 
+  title={Stable Inverse Reinforcement Learning: Policies from Control Lyapunov Landscapes}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-17},
+  doi={10.1109/OJCSYS.2024.3447464}}
+```
