@@ -1,7 +1,7 @@
-# CLL_IRL
-Stable Inverse Reinforcement Learning: Policies from Control Lyapunov Landscapes
+# Stable Inverse Reinforcement Learning: Policies from Control Lyapunov Landscapes
 
 This repository contains an implementation of the paper [1]:
+
 [1] Tesfazgi, S., Sprandl, L., Lederer, A., & Hirche, S. "Stable Inverse Reinforcement Learning: Policies from Control Lyapunov Landscapes" in IEEE Open Journal of Control Systems, 2024 [arxiv](https://arxiv.org/abs/2405.08756)
 
 ---
